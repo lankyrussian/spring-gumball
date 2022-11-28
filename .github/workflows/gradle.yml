@@ -27,7 +27,7 @@ jobs:
 
     # Make sure gradle wrapper is executable
     - name: Grant execute permission for gradlew
-      run: chmod +x spring-gumball/gradlew
+      run: chmod +x gradlew
 
     # The "Build with Gradle" step does a build using the gradle/gradle-build-action 
     # action provided by the Gradle organization on GitHub. The action takes care of 
@@ -35,7 +35,7 @@ jobs:
     # For more information, See: https://github.com/gradle/gradle-build-action.      
       
     - name: Build with Gradle
-      run: ./spring-gumball/gradlew build
+      run: ./gradlew build
 
     # List the Build output folder to confirm JAR file was built
     - name: Build Result
