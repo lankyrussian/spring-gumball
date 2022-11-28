@@ -35,7 +35,7 @@ jobs:
     # For more information, See: https://github.com/gradle/gradle-build-action.      
       
     - name: Build with Gradle
-      run: ./spring-gumball/spring-gumball/gradlew build
+      run: ./spring-gumball/gradlew build
 
     # List the Build output folder to confirm JAR file was built
     - name: Build Result
