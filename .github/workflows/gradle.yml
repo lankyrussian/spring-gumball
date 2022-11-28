@@ -33,17 +33,9 @@ jobs:
     # action provided by the Gradle organization on GitHub. The action takes care of 
     # invoking Gradle, collecting results, and caching state between jobs. 
     # For more information, See: https://github.com/gradle/gradle-build-action.      
-    - name: Change directory
-      run: cd spring-gumball
-      
-    - name: Where
-      run: pwd
-    
-    - name: LS
-      run: ls
       
     - name: Build with Gradle
-      run: ./gradlew build
+      run: ./spring-gumball/spring-gumball/gradlew build
 
     # List the Build output folder to confirm JAR file was built
     - name: Build Result
