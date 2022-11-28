@@ -36,6 +36,12 @@ jobs:
     - name: Change directory
       run: cd spring-gumball
       
+    - name: Where
+      run: pwd
+    
+    - name: LS
+      run: ls
+      
     - name: Build with Gradle
       run: ./gradlew build
 
