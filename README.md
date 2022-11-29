@@ -1,9 +1,12 @@
 # spring-gumball
 
+#Part 1
 ![Screenshot from 2022-11-28 19-30-29](https://user-images.githubusercontent.com/17940523/204471577-95bcf3b3-8b28-4541-b0d0-f68b8ea7fa75.png)
 ![Screenshot from 2022-11-28 19-31-43](https://user-images.githubusercontent.com/17940523/204471589-fbd907f7-d5b6-407f-bc5f-8ff89539c364.png)
 ![Screenshot from 2022-11-28 19-31-47](https://user-images.githubusercontent.com/17940523/204471603-36078461-0815-42dc-bb67-d2d231b09b94.png)
 ![Screenshot from 2022-11-28 19-31-53](https://user-images.githubusercontent.com/17940523/204471618-2fed5e6b-cc1f-4938-b4b5-a0628006fd7d.png)
+
+#Part 2
 ![Screenshot from 2022-11-28 22-15-40](https://user-images.githubusercontent.com/17940523/204471626-27b70af0-0107-4981-8a84-167bcb19bfa6.png)
 ![Screenshot from 2022-11-28 22-16-04](https://user-images.githubusercontent.com/17940523/204471637-d780a130-b341-425c-ab64-17da5eee2007.png)
 ![Screenshot from 2022-11-28 22-16-57](https://user-images.githubusercontent.com/17940523/204471646-02861420-0809-4aca-aec4-9175c3cdcd6d.png)
